@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 // Ronil Kothari
 // Linorwarriors3@csu.fullerton.edu
 // @Ronkothari2
 // Partners: AaronDavila05
-=======
-// Aaron Davila
-// aaron.davila@csu.fullerton.edu
-// @AaronDavila05
-// Partners: @Ronkothari2
->>>>>>> afbe4f1b06d5b004a1ccb43e6535a8e131b34d55
 
 #include <iostream>
 #include <string>
