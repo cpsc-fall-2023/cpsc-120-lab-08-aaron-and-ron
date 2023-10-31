@@ -1,7 +1,7 @@
 // Ronil Kothari
 // Linorwarriors3@csu.fullerton.edu
 // @Ronkothari2
-// Partners: AaronDavila05
+// Partners: @AaronDavila05
 
 #include <iostream>
 #include <string>
