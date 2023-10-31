@@ -23,8 +23,8 @@ int main(int argc, char* argv[]) {
   // Initialize each variable with an element of the arguments vector
   // declared above
   std::string protein{arguments.at(1)};
-  std::string condiment{arguments.at(2)};
-  std::string bread{arguments.at(3)};
+  std::string bread{arguments.at(2)};
+  std::string condiment{arguments.at(3)};
   // Use cout to print output following the pattern
   // Your order: A *PROTEIN* sandwich on *BREAD* with *CONDIMENT*.
   // on its own line.
